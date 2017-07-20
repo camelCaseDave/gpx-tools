@@ -6,5 +6,5 @@
 
 ## Usage
 
- - Copy a .gpx file into the debug folder.
+ - Copy a .gpx file into the debug folder
  - Run the application in Visual Studio
